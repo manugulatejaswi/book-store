@@ -1,0 +1,6 @@
+{
+  "name": "The Bindery & Co. — Independent Booksellers",
+  "description": "An independent bookstore featuring intuitive mood & catalog search, personalized reading recommendations, and secure checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
